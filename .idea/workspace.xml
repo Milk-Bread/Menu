@@ -1,7 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a191373-9d83-4aa5-8837-333d82bfa412" name="Default" comment="" />
+    <list default="true" id="3a191373-9d83-4aa5-8837-333d82bfa412" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-50@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-76@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-83.5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon-small@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-568h@2x~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-667h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-736h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-Landscape-736h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-Landscape@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-Landscape~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-Portrait@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default-Portrait~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default@2x~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Default~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/all.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/cfsb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/cpzs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/ddgl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/ggl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/gywm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/qydt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/sgjl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/wdsc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/images/yhzk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/fonts/ionicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/fonts/ionicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/fonts/ionicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-hdpi-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-ldpi-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-mdpi-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xhdpi-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xxhdpi-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/icon/drawable-xxxhdpi-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-hdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-ldpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-mdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xhdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxhdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-land-xxxhdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-hdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-ldpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-mdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xhdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxhdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-40@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-50@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-76@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-83.5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon-small@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/icon/icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-568h@2x~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-667h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-736h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape-736h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Landscape~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait@2x~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default-Portrait~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default@2x~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ios/splash/Default~iphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/splash.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/CDVDebug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/CDVJSON_private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/CDVJSON_private.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Private/CDVPlugin+Private.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDV.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAvailability.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVAvailabilityDeprecated.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVCommandDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVCommandDelegateImpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVCommandDelegateImpl.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVCommandQueue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVCommandQueue.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVConfigParser.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVConfigParser.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVInvokedUrlCommand.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVInvokedUrlCommand.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin+Resources.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin+Resources.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPlugin.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPluginResult.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVPluginResult.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVScreenOrientationDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVTimer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVTimer.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVURLProtocol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVURLProtocol.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVUserAgentUtil.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVUserAgentUtil.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVWebViewEngineProtocol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVWhitelist.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/CDVWhitelist.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/NSDictionary+CordovaPreferences.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/NSDictionary+CordovaPreferences.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/NSMutableArray+QueueAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/Public/NSMutableArray+QueueAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib_Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note.xcworkspace/xcshareddata/xcschemes/Note.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Bridging-Header.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/CDVLaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Classes/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Classes/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Classes/MainViewController.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Classes/MainViewController.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Classes/MainViewController.xib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Entitlements-Debug.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Entitlements-Release.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Images.xcassets/LaunchStoryboard.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Note-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/Note-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Note/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/Api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_ios_version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_osx_version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_xcode_version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/clean" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/defaults.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/Podfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/PodsJson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/check_reqs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/copy-www-build-step.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-devices" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-images" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-started-emulators" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/plugman/pluginHandlers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/prepare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/projectFile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/spawn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/start-emulator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/versions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/log.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/loggingHelper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/run" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/run.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/version.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/ios.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova-js-src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova-js-src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/pods-debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/pods-release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova-js-src/exec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova-js-src/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/angularAMD/angularAMD.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/css/ionic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/css/ionic.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/fonts/ionicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular-ui/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular-ui/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/ionic-angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/ionic-angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/ionic.bundle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/ionic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/js/ionic.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/scss/ionic.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/scss/ionicons/ionicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/ionic/version.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/lib/requirejs/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/controllers/home-ctrl/home.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/controllers/home-ctrl/product.ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/service/directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/service/service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/script/service/sysCode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/service-worker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/views/home-views/tab.home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/views/home-views/tab.product.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/views/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/platforms.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/home-views/tab.home.html" afterPath="$PROJECT_DIR$/www/views/home-views/tab.home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/home-views/tab.product.html" afterPath="$PROJECT_DIR$/www/views/home-views/tab.product.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/views/tabs.html" afterPath="$PROJECT_DIR$/www/views/tabs.html" />
+    </list>
     <ignored path="ionic.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -12,7 +260,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -21,78 +268,21 @@
     <favorites_list name="ionic" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.4117646">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="40.17647">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angular.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/lib/ionic/js/angular/angular.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/views/tabs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tab.product.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/views/home-views/tab.product.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tab.home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/views/home-views/tab.home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.823529">
-              <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26041666">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -103,18 +293,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/views/home-views/tab.home.html" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/views/tabs.html" />
+        <option value="$PROJECT_DIR$/www/views/home-views/tab.home.html" />
+        <option value="$PROJECT_DIR$/www/views/home-views/tab.product.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
+    <option name="x" value="43" />
     <option name="y" value="23" />
     <option name="width" value="1242" />
     <option name="height" value="773" />
@@ -144,7 +338,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,86 +357,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home-views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ionic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="Menu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,6 +372,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="editor.config.accepted" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -265,31 +390,26 @@
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -299,27 +419,20 @@
       <option name="METHOD_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -402,6 +515,9 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -489,13 +605,12 @@
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
       <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -577,6 +692,18 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -648,11 +775,18 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run-script" />
       <scripts />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -663,48 +797,62 @@
       <method />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3a191373-9d83-4aa5-8837-333d82bfa412" name="Default" comment="" />
       <created>1489547055826</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1489547055826</updated>
       <workItem from="1489547057304" duration="1030000" />
+      <workItem from="1489634549493" duration="4588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1030000" />
+    <option name="totallyTimeSpent" value="5618000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="23" width="1242" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="43" y="23" width="1242" height="773" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50807637" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -716,7 +864,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4117646">
+        <state relative-caret-position="225">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
@@ -724,7 +872,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="40.17647">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -732,7 +880,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/lib/ionic/js/angular/angular.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -740,7 +888,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/views/tabs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -748,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/views/home-views/tab.product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -756,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/views/home-views/tab.home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.823529">
+        <state relative-caret-position="705">
           <caret line="47" column="41" selection-start-line="47" selection-start-column="41" selection-end-line="47" selection-end-column="41" />
           <folding />
         </state>
@@ -764,8 +912,133 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26041666">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/lib/ionic/js/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/script/controllers/home-ctrl/home.ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/script/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/home-views/tab.home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="2" selection-start-column="2" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/platforms.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/ios.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/pods-debug.xcconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/pods-release.xcconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/home-views/tab.product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/views/tabs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
